@@ -34,7 +34,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "django", specifier = ">=5.1.6" }]
+requires-dist = [{ name = "django", specifier = "==5.1.6" }]
 
 [[package]]
 name = "sqlparse"

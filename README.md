@@ -11,7 +11,7 @@ uv sync
 
 Launch the application using the entrypoint script:
 ```bash
-sh entrypoint.sh
+./entrypoint.sh
 ```
 
 It does the following:
