@@ -1,3 +1,7 @@
+# ⚠️ Issue was fixed, update Django to 5.1.7 or later ⚠️
+
+[Ticket](https://code.djangoproject.com/ticket/36217)
+
 # Signal Bug Showcase Repo
 
 ## Installation
